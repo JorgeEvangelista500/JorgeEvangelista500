@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Currently a Client Support Coordinator I am able assist individuals with their every day tasks in other to improve their quality of life.
+
+I decided to explore further into one of interest, in coding, and took a chance to learn all the required skills at Bloom Tech. I enjoy the experience of creating something from scratch and finding solutions to complex problems
+
+Learning new skills every week has been challenging, as well as rewarding. I'm looking forward to a day were I could apply my skills.
+
 <!--
 **JorgeEvangelista500/JorgeEvangelista500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

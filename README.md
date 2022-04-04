@@ -6,6 +6,9 @@ Last year, I decided to explore a long-time interest of mine (coding), and ultim
 
 Learning new skills every week has been challenging, exciting, and rewarding. I'm looking forward to a day were I can apply my skills in this diverse field.
 
+Technical Skills
+ 
+ HTML, CSS, JavaScript, React.js, Redux, Hooks, Axios, Context API, Cypress, Node.js, sqlite3, Express
 <!--
 **JorgeEvangelista500/JorgeEvangelista500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

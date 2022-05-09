@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="center">A Full Stack Web Developer with experience contributing to the development of interactive and efficient web applications.
-
-Currently, I have just finished a project where I provided enhanced search navigation features using Redux, improved responsiveness thru the implementation of refactored endpoints to connect to PostgreSQL database and facilitated the optimization of user specific functions.  
-
-I enjoy the experience of creating something from scratch, and finding solutions to complex problems. 
+<h3 align="center">A Full Stack Web Developer with experience contributing to the development of interactive and efficient web applications.Currently, I have just finished a project where I provided enhanced search navigation features using Redux, improved responsiveness thru the implementation of refactored endpoints to connect to PostgreSQL database and facilitated the optimization of user specific functions.  I enjoy the experience of creating something from scratch, and finding solutions to complex problems. 
 
 Feel free to email me or connect to chat about web development career opportunities ~!</h3>
 
-- 📫 How to reach me **jorgeevangelista500@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **jorgeevangelista500@gmail.com**
 <p align="left">
 </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="center">Hi I'm Jorge, a Full Stack Web Developer with experience contributing to the development of interactive and efficient web applications.
+<h3 align="center">A Full Stack Web Developer with experience contributing to the development of interactive and efficient web applications.
 
 Currently, I have just finished a project where I provided enhanced search navigation features using Redux, improved responsiveness thru the implementation of refactored endpoints to connect to PostgreSQL database and facilitated the optimization of user specific functions.  
 

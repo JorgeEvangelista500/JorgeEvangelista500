@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="center">Currently I work as a Client Support Coordinator, where I am able to assist individuals with their everyday tasks, which can help improve their quality of life. Last year, I decided to explore a long-time interest of mine (coding), and ultimately took a chance to learn all the required skills at Bloom Tech. I enjoy the experience of creating something from scratch, and finding solutions to complex problems. Learning new skills every week has been challenging, exciting, and rewarding. I'm looking forward to a day were I can apply my skills in this diverse field.</h3>
+<h3 align="center">Hi I'm Jorge, a Full Stack Web Developer with experience contributing to the development of interactive and efficient web applications.
+
+Currently, I have just finished a project where I provided enhanced search navigation features using Redux, improved responsiveness thru the implementation of refactored endpoints to connect to PostgreSQL database and facilitated the optimization of user specific functions.  
+
+I enjoy the experience of creating something from scratch, and finding solutions to complex problems. 
+
+Feel free to email me or connect to chat about web development career opportunities ~!</h3>
 
 - 📫 How to reach me **jorgeevangelista500@gmail.com**
 
